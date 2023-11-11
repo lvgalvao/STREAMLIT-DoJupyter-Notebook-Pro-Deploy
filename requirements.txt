@@ -1,0 +1,3 @@
+pandas
+streamlit
+sycopg2-binary
